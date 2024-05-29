@@ -6,25 +6,10 @@ collection: portfolio
 ---
 Objective
 ------
-This project aimed to enhance web search engine performance through the implementation of index sharding and selective search. We utilized a carefully curated dataset and employed various clustering techniques to organize data into efficient structures for improved information retrieval.
-
-Dataset and Tools
-------
-We used the Cohere/msmarco-v2-embed-english-v3 dataset from Hugging Face, which provides dense numerical representations of text data. The project was implemented using Python 3 and C++, leveraging libraries like Scikit-learn and NumPy for clustering and data analysis.
-
-Clustering Techniques
-------
-Three clustering techniques were employed:
-1. K-Means Clustering: This partitions data into K clusters based on the nearest mean, optimizing cluster assignments iteratively.
-1. K-Means Mini-Batch Clustering: A variant of K-Means that processes subsets of data for faster convergence, suitable for large datasets.
-1. Gaussian Mixture Models (GMMs): These model data as mixtures of multiple Gaussian distributions, allowing more flexible clustering.
-
-Results and Analysis
-------
-The project involved a comparative analysis of clustering techniques to determine which configuration maximized recall. The results provided insights into the trade-offs between different clustering methods and the impact of the number of clusters on selective search outcomes
+The project aimed to develop a Deep Learning (DL) model for predicting the Air Quality Index (AQI) of Indian metropolitan cities. Utilizing a dataset spanning two decades and encompassing multiple cities, the model was trained on diverse atmospheric parameters, including the presence of more than 10 gases in the air. Through rigorous training and validation, the DL model was fine-tuned to effectively forecast the AQI, offering insights into air quality trends and facilitating proactive measures for environmental management and public health protection. This initiative not only addresses the pressing issue of air pollution but also underscores the potential of AI-driven solutions in mitigating environmental challenges on a regional scale.
 
 Keywords
 ------
-Index Sharding, Selective Search, Clustering Techniques K-Means Clustering, Mini-Batch K-Means, Gaussian Mixture Models (GMMs), Information Retrieval, Distributed Systems
+Deep Learning, Air Quality Index, AI-driven solutions, Pytorch. 
 
 You can get the code [here](https://github.com/MeetOswal/SearchEngine/tree/main/Project)
