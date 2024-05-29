@@ -27,7 +27,7 @@ author:
   bio              : "Machine Learning enthusiast"
   location         : "New York"
   employer         : "New York University"
-  uri              : "https://meetoswal.github.io"
+  # uri              : "https://meetoswal.github.io"
   email            : "osw.meet00@gmail.com" 
 
   # Academic websites

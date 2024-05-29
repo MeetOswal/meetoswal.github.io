@@ -24,5 +24,6 @@ Professional Experience
 My professional journey includes valuable internships where I applied my academic knowledge to real-world problems. At Vishwakarma Institute of Information Technology in Pune, I led a research team focused on developing a cost-effective middleware solution for data storage across multiple cloud service providers. This role sharpened my leadership and innovative problem-solving skills.
 
 During my tenure at Cloudedgic Inc., I worked as a Software Development Engineer Intern. I developed a music web application using the MERN stack and integrated AWS services to enhance performance and scalability. I also implemented a recommendation system that significantly improved user engagement and served as the Database Administrator, ensuring data integrity and security. 
-------
+
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meetoswal/) or check out my work on [GitHub](https://github.com/MeetOswal). Let's collaborate and make technology work for a better future!
