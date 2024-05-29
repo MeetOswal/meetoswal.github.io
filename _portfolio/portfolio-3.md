@@ -1,6 +1,7 @@
 ---
 title: "Air Quality Index Predictor"
-excerpt: " Task of implementing index sharding and selective search within a web search engine framework."
+excerpt: " Developed Deep Learning model to predict the Air Quality Index based on the amount of 10 different gasses present in an
+ area. This Neural Network model is fed with different information of AQI of 20 years with an test R-squared value of 0.86"
 collection: portfolio
 ---
 Objective

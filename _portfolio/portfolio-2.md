@@ -1,6 +1,6 @@
 ---
 title: " Index Sharding: Search using Clustering Techniques"
-excerpt: " Task of implementing index sharding and selective search within a web search engine framework."
+excerpt: " This project aimed to enhance web search engine performance through the implementation of index sharding and selective search. We utilized a carefully curated dataset and employed various clustering techniques to organize data into efficient structures for improved information retrieval."
 collection: portfolio
 ---
 Objective
