@@ -11,5 +11,3 @@ The project aimed to develop a Deep Learning (DL) model for predicting the Air Q
 Keywords
 ------
 Deep Learning, Air Quality Index, AI-driven solutions, Pytorch. 
-
-You can get the code [here](https://github.com/MeetOswal/SearchEngine/tree/main/Project)
