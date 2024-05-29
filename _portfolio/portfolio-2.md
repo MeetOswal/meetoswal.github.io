@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Objective
 ------
- This project aimed to enhance web search engine performance through the implementation of index sharding and selective search. We utilized a carefully curated dataset and employed various clustering techniques to organize data into efficient structures for improved information retrieval.
+This project aimed to enhance web search engine performance through the implementation of index sharding and selective search. We utilized a carefully curated dataset and employed various clustering techniques to organize data into efficient structures for improved information retrieval.
 
 Dataset and Tools
 ------
