@@ -1,13 +1,13 @@
 ---
-title: "Air Quality Index Predictor"
-excerpt: " Developed Deep Learning model to predict the Air Quality Index based on the amount of 10 different gasses present in an
- area. This Neural Network model is fed with different information of AQI of 20 years with an test R-squared value of 0.86"
+title: "Decentralized web3 based webnovel application"
+excerpt: "This project introduces a decentralized web novel library application built on the Ethereum blockchain, leveraging the Truffle, NodeJs, and ReactJs frameworks. By utilizing smart contracts and the web3.js API, it addresses key issues of traditional centralized platforms, including censorship, publishing fees, and privacy concerns. Performance and cost analyses on Goerli and Sepolia Test Networks demonstrate the application's efficiency and viability."
 collection: portfolio
 ---
 Objective
 ------
-The project aimed to develop a Deep Learning (DL) model for predicting the Air Quality Index (AQI) of Indian metropolitan cities. Utilizing a dataset spanning two decades and encompassing multiple cities, the model was trained on diverse atmospheric parameters, including the presence of more than 10 gases in the air. Through rigorous training and validation, the DL model was fine-tuned to effectively forecast the AQI, offering insights into air quality trends and facilitating proactive measures for environmental management and public health protection. This initiative not only addresses the pressing issue of air pollution but also underscores the potential of AI-driven solutions in mitigating environmental challenges on a regional scale.
+This paper proposes a decentralized web novel application built on the Ethereum blockchain to address the limitations of traditional centralized platforms, such as content removal, publishing fees, and privacy concerns. Utilizing the truffle development framework, NodeJs backend, and ReactJs frontend, the application leverages Ethereum smart contracts to manage functionality, with user inputs passed through the web3.js API. Performance and cost analyses were conducted on the Goerli and Sepolia test networks, revealing average transaction runtimes of 31.86 and 15.8 seconds, respectively. The findings demonstrate the application's potential to provide a censorship-resistant, cost-effective, and privacy-focused alternative for web novel enthusiasts.
+(/files/web3.png)
 
 Keywords
 ------
-Deep Learning, Air Quality Index, AI-driven solutions, Pytorch. 
+Blockchain, Web3, Smart COntracts, Ethereum, DApps, MERN, Decentralized storage, Cryptocurrency
