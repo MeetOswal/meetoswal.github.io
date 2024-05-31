@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Objective
 ------
-This paper proposes a decentralized web novel application built on the Ethereum blockchain to address the limitations of traditional centralized platforms, such as content removal, publishing fees, and privacy concerns. Utilizing the truffle development framework, NodeJs backend, and ReactJs frontend, the application leverages Ethereum smart contracts to manage functionality, with user inputs passed through the web3.js API. Performance and cost analyses were conducted on the Goerli and Sepolia test networks, revealing average transaction runtimes of 31.86 and 15.8 seconds, respectively. The findings demonstrate the application's potential to provide a censorship-resistant, cost-effective, and privacy-focused alternative for web novel enthusiasts.
+This project proposes a decentralized web novel application built on the Ethereum blockchain to address the limitations of traditional centralized platforms, such as content removal, publishing fees, and privacy concerns. Utilizing the truffle development framework, NodeJs backend, and ReactJs frontend, the application leverages Ethereum smart contracts to manage functionality, with user inputs passed through the web3.js API. Performance and cost analyses were conducted on the Goerli and Sepolia test networks, revealing average transaction runtimes of 31.86 and 15.8 seconds, respectively. The findings demonstrate the application's potential to provide a censorship-resistant, cost-effective, and privacy-focused alternative for web novel enthusiasts.
 
 
 Keywords
