@@ -23,7 +23,7 @@ Video Compilation: Assemble processed frames back into a video using cv2.VideoWr
 - Tools and Libraries: OpenCV for image processing, NumPy for numerical operations, Matplotlib for plotting.
 
 **Result**:
-<br/><img src='/files/web3.png'>
+<br/><img src='/files/cv.jpg'>
 
 Keywords
 ------
